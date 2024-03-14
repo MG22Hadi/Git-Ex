@@ -4,5 +4,6 @@ public class Main {
         System.out.println("MG");
         System.out.println("M2");
         System.out.println("M3");
+        
     }
 }
